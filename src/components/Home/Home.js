@@ -32,7 +32,7 @@ class Home extends Component {
                 <p className="title"><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor. I think it's an absolutely excellent tool for our business</strong></p>
                 </div>
                 <div className="column">
-                <p> I think ssffsf sfdsfsd sfsdfds sffsdfds sffds </p>
+                <p> I think ssffsf sfdsfsd sfsdfds sffsdfds sffdsLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor. I think it's an absolutely excellent tool for our business.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor. I think it's an absolutely excellent tool for our business. </p>
                 </div>
                 </div>
                 <div className="columns pd">
